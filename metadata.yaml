@@ -1,0 +1,36 @@
+_repo: Israel-in-Europe_71752
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, G. F. (George Frederick)
+    aliases:
+    - Abbott, George Frederick
+    - Abbott, George F.
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '25482'
+    url: http://www.gutenberg.org/2009/agents/25482
+    wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Abbott
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71752'
+  lccn: '07037533'
+language: en
+pgterms:marc904: https://archive.org/details/israelineurope00abbo
+pgterms:marc905: 20190120091125abbott
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., Limited, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- History'
+- !lcsh 'Jews -- Europe'
+- !lcc 'DS'
+- GITenberg
+title: Israel in Europe
+url: http://www.gutenberg.org/ebooks/71752
