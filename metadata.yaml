@@ -1,5 +1,8 @@
 _repo: Israel-in-Europe_71752
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71752-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, G. F. (George Frederick)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25482
     wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71752#Israel-in-Europe
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71752'
